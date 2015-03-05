@@ -1,2 +1,2 @@
--== Deprecated
+Deprecated
 This repo has been merged back into https://github.com/AThilenius/Scorch
